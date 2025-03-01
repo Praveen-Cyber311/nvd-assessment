@@ -108,4 +108,5 @@ pytest tests/test_api.py
 ---
 
 
+![Screenshot 2025-03-01 143314](https://github.com/user-attachments/assets/17c80d4d-0467-474d-a09d-5e408ab106e0)
 
